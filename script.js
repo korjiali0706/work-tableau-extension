@@ -164,7 +164,7 @@ let constructLine = (w, h) => {
       flag
         .attr('width', "30px") // ***
         .attr('height', "30px") // ***
-        .attr('fill', 'blue') // ***
+        .attr('fill', 'red') // ***
         .attr('viewBox', "-43 1 456 456.9981")
         .attr('x', width - 120) // position X
         .attr('y', height/2 - 20) // position Y
